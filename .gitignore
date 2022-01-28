@@ -1,2 +1,2 @@
 node_modules/
-$ bfg --delete-files .env
+bfg --delete-files .env
